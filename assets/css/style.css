@@ -249,7 +249,6 @@ html {
     width: 800px;
     max-width: 100%;
     padding-left: 16px;
-    ;
     padding-right: 16px;
 
 }
@@ -409,8 +408,16 @@ html {
 }
 
 /* Map-section */
+.map-section{
+    width:100%;
+}
+.google-map{
+    width:inherit;
+}
+
 .map-section img {
     filter: grayscale(50%);
+    height: auto;
     width: 100%;
 }
 

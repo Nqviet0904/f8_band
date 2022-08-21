@@ -40,7 +40,7 @@
 {
     #content .content-section{
         max-width: 800;
-        width: auto;
+    max-width: 100%;
     }
     
 
