@@ -179,9 +179,10 @@ html{
 #slider{
     margin-top:46px;
     padding-top:50%;
-    background: url('/assets/Stograge/img/slider/slider1.jpg') top center / cover no-repeat;
+     background: url('/assets/Stograge/img/slider/slider1.jpg') top center / cover no-repeat; */
     position:relative;
 }
+
 #slider .text-content{
     position:absolute;
     bottom:47px;
